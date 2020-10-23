@@ -1,5 +1,5 @@
 # BLANKET CLUSTERER
-> Current version: v0.9
+> Current version: v1.0.0
 
 Blanket Clusterer:
 -   Is a hierarchical clustering algorithm
