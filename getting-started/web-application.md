@@ -1,4 +1,4 @@
-# Web Application
+# WEB APPLICATION
 
 ## Setup
 To application setup is pretty straight forward. Just follow these steps, and you

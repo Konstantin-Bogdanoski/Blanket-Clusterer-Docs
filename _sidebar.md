@@ -7,7 +7,7 @@
 
 - Documentation
     - [Usage](documentation/usage.md)
-    - [Implementation](documentation/implementation.md)
+    - [Implementation](documentation/how-it-works.md)
     - [Customization](documentation/customization.md)
 
 - [About Us](about-us.md)

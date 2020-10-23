@@ -1,4 +1,4 @@
-# About Us
+# ABOUT US
 
 The module was build with the support of the Faculty of Computer Science and Engineering in Skopje, North Macedonia.
 

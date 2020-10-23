@@ -1,4 +1,4 @@
-# Blanket Clusterer
+# BLANKET CLUSTERER
 > Current version: v0.9
 
 Blanket Clusterer:

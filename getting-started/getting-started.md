@@ -1,10 +1,8 @@
-# Getting Started
+# GETTING STARTED
 
 Blanket Clusterer is made of **2** main modules:
 - Python clustering module (Python)
 - Web Application (Python Flask + ReactJS)
-
-## Python Module
  
 This repository contains the Python Flask + ReactJS web application, which will allow users
 to easily use Blanket Clusterer python module. 
