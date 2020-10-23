@@ -1,14 +1,14 @@
-- [Home](README.md)
+- [HOME](README.md)
 
-- Getting started
+- GETTING STARTED
     - [Quick start](getting-started/getting-started.md)
     - [Python Module](getting-started/python-module.md)
     - [Web Application](getting-started/web-application.md)
 
-- Documentation
+- DOCUMENTATION
     - [Usage](documentation/usage.md)
-    - [Implementation](documentation/how-it-works.md)
+    - [How it works](documentation/how-it-works.md)
     - [Customization](documentation/customization.md)
 
-- [About Us](about-us.md)
-- [Changelog](changelog.md)
+- [ABOUT US](about-us.md)
+- [CHANGELOG](changelog.md)

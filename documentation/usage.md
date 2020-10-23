@@ -150,28 +150,28 @@ Commands to start up the application: `npm start` for ReactJS and `flask run` fo
 Head over to `http://localhost:3000` to access the GUI
 
 ### 2. Head over to `Clusterize` on the GUI
-![Blanket Clusterer Home Page](../_images/Blanket_Clusterer_HomePage.png)
+![Blanket Clusterer Home Page](../_images/web-application/Blanket_Clusterer_HomePage.png)
 
 ### 3. Upload the `Word2Vec` model
-![Upload Word2Vec](../_images/Blanket_Clusterer_Word2Vec_Upload.png)
+![Upload Word2Vec](../_images/web-application/Blanket_Clusterer_Word2Vec_Upload.png)
 
 ### 4. Upload the `names` file
-![Upload names](../_images/Blanket_Clusterer_Names_Upload.png)
+![Upload names](../_images/web-application/Blanket_Clusterer_Names_Upload.png)
 
 ### 5. Upload the `group_names` file [_OPTIONAL_]
-![Upload group names](../_images/Blanket_Clusterer_GroupNames_Upload.png)
+![Upload group names](../_images/web-application/Blanket_Clusterer_GroupNames_Upload.png)
 
 ### 6. Define clustering parameters
-![Define parameters](../_images/Blanket_Clusterer_Parameters.png)
+![Define parameters](../_images/web-application/Blanket_Clusterer_Parameters.png)
 
 > Check out our example for parameters
-> ![Parameters example](../_images/Blanket_Clusterer_Parameters_Example.png)
+> ![Parameters example](../_images/web-application/Blanket_Clusterer_Parameters_Example.png)
 
 ### 7. Wait a bit while the process is executing
 
 
 ### 8. Check out the results
 #### With Group names
-![Results with group names](../_images/Blanket_Clusterer_Results_GroupNames.jpg)
+![Results with group names](../_images/web-application/Blanket_Clusterer_Results_GroupNames.jpg)
 #### Without Group names
-![Results without group names](../_images/Blanket_Clusterer_Results_NoGroupNames.png)
+![Results without group names](../_images/web-application/Blanket_Clusterer_Results_NoGroupNames.png)

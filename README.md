@@ -3,7 +3,8 @@
 
 Blanket Clusterer:
 -   Is a hierarchical clustering algorithm
--   Is a generic algorithm (built upon existing clustering algorithms from [scikit-learn](https://scikit-learn.org/stable/) and [NLTK](https://www.nltk.org/))
+-   Is a generic algorithm (built upon existing clustering algorithms from [scikit-learn](https://scikit-learn.org/stable/)
+ and [NLTK](https://www.nltk.org/))
 -   Works with Word2Vec models, to cluster vectors
 -   Implements a 3D visualization tool, courtesy of [CarrotSearch's](https://carrotsearch.com/) [FoamTree](https://get.carrotsearch.com/foamtree/demo/)
 
