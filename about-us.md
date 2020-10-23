@@ -4,12 +4,12 @@ The module was build with the support of the Faculty of Computer Science and Eng
 
 Contributors:
 
-- Konstantin Bogdanoski
+- **Konstantin Bogdanoski**
     - [LinkedIn](https://www.linkedin.com/in/konstantin-bogdanoski/)
     - [GitHub](https://github.com/Konstantin-Bogdanoski)
     
-- MSc. Kostadin Mishev
+- MSc. Asst. Prof. **Kostadin Mishev**
     - [LinkedIn](https://www.linkedin.com/in/kostadin-mishev-b6574a68/)
 
-- PhD. Prof. Dimitar Trajanov
+- PhD. Prof. **Dimitar Trajanov**
     - [LinkedIn](https://www.linkedin.com/in/dimitartrajanov/)
