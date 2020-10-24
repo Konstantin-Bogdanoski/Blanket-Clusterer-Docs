@@ -13,4 +13,4 @@ effort as possible.
 
 Any feedback and constructive criticism is welcome!
 
-Head out to [Getting Started](getting-started/getting-started.md) to begin your clustering!
+Head out to [Getting Started](getting-started/quick-start.md) to begin your clustering!

@@ -1,7 +1,7 @@
 - [HOME](README.md)
 
 - GETTING STARTED
-    - [Quick start](getting-started/getting-started.md)
+    - [Quick start](getting-started/quick-start.md)
     - [Python Module](getting-started/python-module.md)
     - [Web Application](getting-started/web-application.md)
 
