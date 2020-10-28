@@ -175,3 +175,30 @@ Head over to `http://localhost:3000` to access the GUI
 ![Results with group names](../_images/web-application/Blanket_Clusterer_Results_GroupNames.jpg)
 #### Without Group names
 ![Results without group names](../_images/web-application/Blanket_Clusterer_Results_NoGroupNames.png)
+
+
+## Format of files
+
+The names and group-names files must be in a specific `.csv` format.
+The first column needs to be the key corresponding to the value (name), and the second column needs to be the value itself.
+
+For example:
+
+```csv
+1000,Example name0,
+1001,Example name1,
+...
+9999,Example name9999
+```
+
+Alongside the file with the names, the file with the group names must also be in a specific format, similar to the file with the names.
+
+For example:
+
+```csv
+1000-2000,Example group-name1,
+2001-3000,Example group-name2,
+...
+```
+
+**IMPORTANT: The keys in the files with names and group-names, must correspond with the key values of the vectors in the Word2Vec model!**
