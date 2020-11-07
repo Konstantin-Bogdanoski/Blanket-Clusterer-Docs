@@ -140,7 +140,7 @@ present if you have provided a `group_names_path` file.
 
 **IMPORTANT: The Web Application (GUI) is the one that provides the 3D visualization. Without it, you can only view the `output.json` file**
 
-After you have downloaded both the Python Module and the Web Application, and setup them according to [Getting Started](../getting-started/quick-start.md) 
+After you have downloaded both the Python Module and the Web Application, and setup them according to [Getting Started](/getting-started/quick-start.md) 
 you can easily cluster your data following these couple of steps.
 
 ### 1. Make sure your Web Application is running (both Flask and ReactJS)
