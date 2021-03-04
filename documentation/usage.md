@@ -1,6 +1,6 @@
 # USAGE
 
-## Use Python Module through terminal
+## Use through terminal
 
 To use the module without using the GUI, you can just use the following command:
 
@@ -136,7 +136,7 @@ It should look something like the following example:
 You might have noticed the `coverage` attribute. This attribute is used for the coloring part of the visualization and it is only
 present if you have provided a `group_names_path` file.
 
-## Use Python Module through GUI
+## Use through GUI
 
 **IMPORTANT: The Web Application (GUI) is the one that provides the 3D visualization. Without it, you can only view the `output.json` file**
 
@@ -169,18 +169,24 @@ Head over to `http://localhost:3000` to access the GUI
 
 ### 7. Wait a bit while the process is executing
 
-
 ### 8. Check out the results
+
 #### With Group names
+
 ![Results with group names](../_images/web-application/Blanket_Clusterer_Results_GroupNames.jpg)
+
 #### Without Group names
+
 ![Results without group names](../_images/web-application/Blanket_Clusterer_Results_NoGroupNames.png)
 
+## Use with Docker
+
+To use Blanket Clusterer with Docker, refer to [Getting Started/Docker](/getting-started/docker.md)
 
 ## Format of files
 
-The names and group-names files must be in a specific `.csv` format.
-The first column needs to be the key corresponding to the value (name), and the second column needs to be the value itself.
+The names and group-names files must be in a specific `.csv` format. The first column needs to be the key corresponding
+to the value (name), and the second column needs to be the value itself.
 
 For example:
 

@@ -28,7 +28,7 @@ better than Euclidean Distance, lead to us using the Cosine Distance as a metric
 This can be altered if you need to, by changing the metric in the implementation of the algorithms
 in `KMeansClustering.py` and `AgglomerClustering.py`.
 
-The specific line in the code which needs to be altered is :
+The specific line in the code which needs to be altered is:
 ```
 kmeans = KMeansClusterer(self.n_clusters, distance=nltk.cluster.util.cosine_distance)
 ```

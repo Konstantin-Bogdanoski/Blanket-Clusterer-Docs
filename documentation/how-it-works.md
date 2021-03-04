@@ -109,5 +109,5 @@ name_cluster(cluster):
         return find_most_common_words[0..3]
 ```
 
-Beside these methods, there are other methods that are used by the module and are not explained
-or mentioned in this documentation.
+Along with these methods, there are other methods that are used by the module which are not explained or mentioned in
+this documentation. Because this is open-source, you, as a user, can easily modify any line of code you wish.
