@@ -50,7 +50,7 @@ Arguments and descriptions:
                 <code>embeddings_path</code>
             </td>
             <td>
-                Absolute path to <code>Word2Vec</code> model
+                Absolute path to <code>embeddings</code> file
             </td>
         </tr>
         <tr>
@@ -150,18 +150,23 @@ Commands to start up the application: `npm start` for ReactJS and `flask run` fo
 Head over to `http://localhost:3000` to access the GUI
 
 ### 2. Head over to `Clusterize` on the GUI
+
 ![Blanket Clusterer Home Page](../_images/web-application/Blanket_Clusterer_HomePage.png)
 
-### 3. Upload the `Word2Vec` model
-![Upload Word2Vec](../_images/web-application/Blanket_Clusterer_Word2Vec_Upload.png)
+### 3. Upload the `embeddings` file
+
+![Upload Embeddings](../_images/web-application/Blanket_Clusterer_Embeddings_Upload.png)
 
 ### 4. Upload the `names` file
+
 ![Upload names](../_images/web-application/Blanket_Clusterer_Names_Upload.png)
 
 ### 5. Upload the `group_names` file [_OPTIONAL_]
+
 ![Upload group names](../_images/web-application/Blanket_Clusterer_GroupNames_Upload.png)
 
 ### 6. Define clustering parameters
+
 ![Define parameters](../_images/web-application/Blanket_Clusterer_Parameters.png)
 
 > Check out our example for parameters
@@ -207,4 +212,5 @@ For example:
 ...
 ```
 
-**IMPORTANT: The keys in the files with names and group-names, must correspond with the key values of the vectors in the Word2Vec model!**
+**IMPORTANT: The keys in the files with names and group-names, must correspond with the key values of the vectors in the
+embeddings file!**
