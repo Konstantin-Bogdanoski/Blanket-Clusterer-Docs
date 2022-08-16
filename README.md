@@ -15,4 +15,6 @@ little effort as possible.
 
 Any feedback and/or constructive criticism is welcome!
 
+Research paper is available at: [Blanket Clusterer: A Tool For Automating the Clustering in Unsupervised Learning](https://www.researchgate.net/publication/362008068_Blanket_Clusterer_A_Tool_for_Automating_the_Clustering_in_Unsupervised_Learning)
+
 Head out to [Getting Started](getting-started/quick-start.md) to begin your clustering!
