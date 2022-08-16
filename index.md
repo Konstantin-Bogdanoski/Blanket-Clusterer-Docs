@@ -1,2 +1,2 @@
 # Blanket Clusterer
-> Current version: v0.9
+> Current version: v3.0
